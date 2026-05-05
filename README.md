@@ -1,2 +1,6 @@
-# padrao-strategy
-Código Referente ao Padrão de Projeto Strategy
+# Padrão de Projeto Strategy
+
+Aluno: Thiago Prata de Figueredo
+Professor: Marco Antônio Pereira Araújo
+Turma: 7° Período de Sistema de Informação
+Disciplina: Arquitetura e Projeto de Software
